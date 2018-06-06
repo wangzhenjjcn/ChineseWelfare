@@ -1,0 +1,9 @@
+Windows Web Server 2008 ！！！- WYR28-R7TFJ-3X2YQ-YCY4H-M249D 
+Windows Server 2008 Standard ！！！- TM24T-X9RMF-VWXK6-X8JC9-BFGM2 
+Windows Server 2008 Standard without Hyper-V ！！！- W7VD6-7JFBR-RX26B-YKQ3Y-6FFFJ 
+Windows Server 2008 Enterprise ！！！- YQGMW-MPWTJ-34KDK-48M3W-X4Q6V 
+Windows Server 2008 Enterprise without Hyper-V ！！！- 39BXF-X8Q23-P2WWT-38T2F-G3FPG 
+Windows Server 2008 HPC ！！！- RCTX3-KWVHP-BR6TB-RB6DM-6X7HP 
+Windows Server 2008 Datacenter ！！！- 7M67G-PC374-GR742-YH8V4-TCBY3 
+Windows Server 2008 Datacenter without Hyper-V ！！！- 22XQ2-VRXRG-P8D42-K34TD-G3QQC 
+Windows Server 2008 for Itanium-Based Systems ！！！- 4DWFP-JF3DJ-B7DTH-78FJB-PDRHK
