@@ -1,0 +1,6 @@
+1、在开始菜单搜索cmd，右键以“管理员身份”运行；
+2、键入slmgr.vbs -ipk xxxxx-xxxxx-xxxxx-xxxxx-xxxxx(X为产品密钥)
+
+
+1.search cmd and run as administrator at start menu
+2.keydown "slmgr.vbs -ipk xxxxx-xxxxx-xxxxx-xxxxx-xxxxx" xxx is the key and keydown the enter
