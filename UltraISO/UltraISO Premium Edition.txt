@@ -1,3 +1,2 @@
 Name: Name: John Smith
-
 S/N: Serial: 4049-BCE1-FDA3-797A
